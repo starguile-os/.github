@@ -1,6 +1,5 @@
 # STARGUILE OS
 
-**Kicking the cloud outside — one home at a time.**
 
 We build sovereign presence software for the people who live in the house, not the platforms that watch it.
 
@@ -12,9 +11,9 @@ We build sovereign presence software for the people who live in the house, not t
 
 **SEER** — the weather station on the roof. Triages the outside world (mail, messages, maps) and decides what crosses your threshold.
 
-**OS Core** — the sovereign edge node. Physical hardware that literally kicks the cloud outside your walls. Your climate. Your weather. Your culture. Your rules.
+**OS Core** — the sovereign edge node. Your climate. Your weather. Your culture. Your rules.
 
----
+**Nimbus*** - Sovereign Home Metal.
 
 ## The Three Hard No's
 
